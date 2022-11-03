@@ -32,8 +32,6 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
 
-
-
     <dependencies>
 
         <dependency>
